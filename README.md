@@ -7,3 +7,6 @@
 
 # Обучение программированию
 - [Визуализация процессов в коде](https://pythontutor.com/)
+
+# Linux
+- [Команды](https://linuxcommandlibrary.com/)
